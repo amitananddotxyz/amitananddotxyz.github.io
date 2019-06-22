@@ -18,4 +18,4 @@ github_username:  amitananddotxyz
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-slate
